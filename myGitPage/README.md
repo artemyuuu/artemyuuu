@@ -1,12 +1,13 @@
 <h1 align="center">Hello there! <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width = 30px></h1>
 
 <div class="container">
-    <img src="https://github.com/artemyuuu/artemyuuu/blob/master/myGitPage/tumblr_270ee7409cf8cbead98549ce6b76a62e_ac7c96ce_540.gif?raw=true" align="right">&nbsp;
+    <img src="https://github.com/artemyuuu/artemyuuu/blob/master/myGitPage/tom-and-jerry.gif?raw=true" align="right">&nbsp;
     <h4>I'm Yu Artyom, junior Go developer currently studing and living in Moscow, Russia.</h4>
-    <h4>I am currently pursuing a Bachelor's degree in Materials Science and Materials Technology at the Moscow Engineering Physics Institute  <a href="https://mephi.ru/">MEPHI</a>.</h4>
+    <h4>I have a BA with honors in Information Science and Computation Technology from <a href="https://www.hse.ru/en/">HSE</a>.</h4>
     <h4>In my spare time I do small projects on the side.</h4>
     </div>
 
+<br><br>
 
 <div align="center">
 
@@ -46,10 +47,26 @@
     <a href="mailto:wrestlingteam57@gmail.com">
         <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&labelColor=white">
     </a>
-    <a href="https://leetcode.com/artemyuuu/">
+    <a href="https://leetcode.com/tanya-lyubimaya">
         <img src="https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&labelColor=white">
     </a>
+    <a href="https://www.kaggle.com/tanyashxr">
+        <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&labelColor=white">
+    </a>
 </div>
+
+<br>
+
+<div align="center">
+    <img src="https://github.com/artemyuuu/artemyuuu/blob/master/myGitPage/tumblr_270ee7409cf8cbead98549ce6b76a62e_ac7c96ce_540.gif?raw=true">
+</div>
+
+<br>
+
+<img src="https://github.com/tanya-lyubimaya/tanya-lyubimaya/blob/main/media/glowing_line.gif?raw=true">
+
+<br>
+
 <div align="center">
 
 ![GitHub Snake Dark](https://raw.githubusercontent.com/tanya-lyubimaya/tanya-lyubimaya/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
@@ -99,4 +116,5 @@
 [Prometheus-url]: https://prometheus.io
 [Looker Studio]: https://img.shields.io/badge/looker-4285F4?style=for-the-badge&logo=looker&logoColor=white
 [Looker-url]: https://lookerstudio.google.com
+
 
