@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width = 30px></h1>
 
 <div class="container">
-       <img src="https://github.com/artemyuuu/artemyuuu/blob/master/myGitPage/tom-and-jerry.gif?raw=true" align="right" style="width: 250px;">&nbsp;
+       <img src="https://github.com/artemyuuu/artemyuuu/blob/master/myGitPage/tom-and-jerry.gif?raw=true" align="right" style="width: 300px;">&nbsp;
     <h4>I'm Yu Artyom, junior Go developer currently studing and living in Moscow, Russia.</h4>
     <h4>I am currently pursuing a Bachelor's degree in Materials Science and Materials Technology at the Moscow Engineering Physics Institute  <a href="https://mephi.ru/">MEPHI</a>.</h4>
     <h4>In my spare time I do small projects on the side.</h4>
@@ -33,7 +33,7 @@
   </a>
 </div>
 
-[![Artemy Yu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=artemyuu&custom_title=Artemy's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=00BAE9&point=EE4779&title_color=EE4779&color=C9D1D9)](https://github.com/artemyuuu/github-readme-activity-graph)
+[![Artemy Yu's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=artemyuu&custom_title=YuArtem's%20Contribution%20Graph&bg_color=ffffff00&hide_border=true&line=00BAE9&point=EE4779&title_color=EE4779&color=C9D1D9)](https://github.com/artemyuuu/github-readme-activity-graph)
 <br>
 
 ## ✉️ Contact Me
