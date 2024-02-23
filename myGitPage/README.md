@@ -42,7 +42,7 @@
 
 <br>
 <div align="center">
-    <a href="https://t.me/talyubimaya">
+    <a href="https://t.me/artemyyu">
         <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&labelColor=white">
     </a>
     <a href="mailto:wrestlingteam57@gmail.com">
