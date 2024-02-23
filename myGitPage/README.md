@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width = 30px></h1>
 
 <div class="container">
-       <img src="https://github.com/artemyuuu/artemyuuu/blob/master/myGitPage/tom-and-jerry.gif?raw=true" align="right" style="width: 300px;">&nbsp;
+       <img src="https://github.com/artemyuuu/artemyuuu/blob/master/myGitPage/tom-and-jerry.gif?raw=true" align="right" style="width: 250px;">&nbsp;
     <h4>I'm Yu Artyom, junior Go developer currently studing and living in Moscow, Russia.</h4>
     <h4>I am currently pursuing a Bachelor's degree in Materials Science and Materials Technology at the Moscow Engineering Physics Institute  <a href="https://mephi.ru/">MEPHI</a>.</h4>
     <h4>In my spare time I do small projects on the side.</h4>
